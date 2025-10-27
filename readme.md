@@ -8,3 +8,10 @@ Development: Build your applications using LangChain's open-source components an
 Productionization: Use LangSmith to inspect, monitor and evaluate your applications, so that you can continuously optimize and deploy with confidence.
 Deployment: Turn your LangGraph applications into production-ready APIs and Assistants with LangGraph Platform.
 ```
+
+
+# uv
+
+### uv init 
+
+initi a project 
