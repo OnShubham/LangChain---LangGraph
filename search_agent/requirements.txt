@@ -1,0 +1,7 @@
+black>=25.9.0
+isort>=7.0.0
+langchain>=1.0.2
+langchain-openai>=1.0.1
+langchain-tavily>=0.2.12
+langchainhub>=0.1.21
+python-dotenv>=1.2.1
