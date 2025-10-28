@@ -11,5 +11,6 @@ dependencies = [
     "langchain-openai>=1.0.1",
     "langchain-tavily>=0.2.12",
     "langchainhub>=0.1.21",
+    "pydantic>=2.12.3",
     "python-dotenv>=1.2.1",
 ]
